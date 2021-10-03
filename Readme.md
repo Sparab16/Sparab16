@@ -1,7 +1,5 @@
 ## 📊 My GitHub Stats
 
-<hr>
-
 <a href="https://github.com/Sparab16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sparab16&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=dracula&border_radius=10&locale=en" />
 </a>
