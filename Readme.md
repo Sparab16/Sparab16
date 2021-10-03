@@ -6,7 +6,7 @@
 
 
 <p>Hello 👋🏼, <br>
-I'm Shreyas 😎
+I'm Shreyas😎.
 
 <li> 😇 Currently working on Machine Learning and Data Science Projects.
 <li> 😊 Learning end to end Data Science life cycle.
