@@ -15,7 +15,7 @@ I'm Shreyas 😎
 <li>💬 Ask me about Astrophysics :)
 <li>😁 Pronouns : He/Him
 <li>✨ Fun fact : Being a cosmophile, I do watch moon, stars and planets while coding😋
-<li>Favorite Theme: <del>Light</del> <b>Dark</b>
+<li>😍 Favorite Theme: <del>Light</del> <b>Dark</b>
 </p>
 
 ## 📊 My GitHub Stats
